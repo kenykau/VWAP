@@ -19,5 +19,20 @@ VWAP is a nice indicator for day trading. This version is a cTrader indicator wi
 
 - After the first success initialize of the indicator, run the setting again to set `Reset Session` parameter to NO. The Session Selection Window will not show next time for the same symbol and timeframe.
 
+## Install
+- clone the project and plce into the folder `Documents\cAlgo\Sources\Indicators\VwAP`
+- in your cTrader Algo editor, opent the VWAP indicator and Build
+- place the `index.html` file into the folder `Document\cAlgo\Data\Indicator\`
+- Enjoy your trade
+
 ## Output
 ![Indicator Output](https://github.com/kenykau/VWAP/blob/main/VWAP.png?raw=true "Indicator Output")
+
+## Todo
+- Improve documentation of the code
+
+## Library used
+- C#: cTrader only
+- HTML: boostrape, tabulator
+
+> Welcome to give me suggestion.
