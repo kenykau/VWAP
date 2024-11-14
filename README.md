@@ -2,9 +2,11 @@
 A flexible VWAP indicator for cTrader
 
 ## Introduction
-VWAP is a nice indicator for day trading. This version is a cTrader indicator with flexible Session selection using the webview2 provided by cTrader. 
-You can add your own session start time and save it to the web local storage.
-You need to download the HTML file and the indicator should be allowed to be full access rights.
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+VWAP is a nice indicator for day trading. This version is a cTrader indicator with flexible Session selection using the Window and webview control provided by cTrader. 
+
+## Features
+- Customizable session start time and save it to the web local storage.
+- Multiple session can be slected 
+![Alt text](https://github.com/kenykau/VWAP/blob/main/Session%20Selection%20Window.png?raw=true "Session Selection Window")
 
 ## Mechanism
